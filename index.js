@@ -1,7 +1,9 @@
 var recipes = {}
 
-function updateObjectWithKeyAndValue(){
+function updateObjectWithKeyAndValue(object, key, value){
   
 }
 
-function des
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
+  
+}
